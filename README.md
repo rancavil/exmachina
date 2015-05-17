@@ -4,6 +4,8 @@ This repository contains the Python code that was written by Caleb, a computer p
 
 If you execute it, it will output:
 
+```python
   ISBN = 9780199226559
+```
 
 It is the ISBN of the book "Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds" from Murray Shanahan.
