@@ -1,7 +1,5 @@
 # Python code from Ex Machina
 
-## Summary
-
 This repository contains the Python code that was written by Caleb, a computer programmer working for Bluebook, in the movie [Ex Machina](http://www.exmachina-movie.com).
 
 If you execute it, it will output:
