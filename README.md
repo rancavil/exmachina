@@ -1,5 +1,9 @@
 # Python code from Ex Machina
 
+## Code quality
+[![Code Issues](http://www.quantifiedcode.com/api/v1/project/1037e9a377a645139dd391397b40c61e/badge.svg)](http://www.quantifiedcode.com/app/project/1037e9a377a645139dd391397b40c61e)
+
+## Description
 This repository contains the Python code that was written by Caleb, a computer programmer working for Bluebook, in the movie [Ex Machina](http://www.exmachina-movie.com).
 
 If you execute it, it will output:
